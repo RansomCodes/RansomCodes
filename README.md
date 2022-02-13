@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manmeet 
 - 👀 I’m interested in Competitive coding
 - 🌱 I’m currently learning cpp
-- 📫 How to reach me https://www.linkedin.com/in/manmeet-singh-ba891721a/
+- 📫 Contact : https://www.linkedin.com/in/manmeet-singh-ba891721a/
 
 <!---
 RansomCodes/RansomCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
