@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manmeet</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ransomcodes&label=Profile%20views&color=0e75b6&style=flat" alt="ransomcodes" /> </p>
-
 - 🔭 I’m currently working on [Yelp-camp](https://yelp-camp-e8rk.onrender.com/campgrounds)
 
 - 🌱 I’m currently learning **React.js**
@@ -26,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ransomcodes&show_icons=true&locale=en&layout=compact" alt="ransomcodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ransomcodes&show_icons=true&locale=en" alt="ransomcodes" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ransomcodes&label=Profile%20views&color=0e75b6&style=flat" alt="ransomcodes" /> </p>
