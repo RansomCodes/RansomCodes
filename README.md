@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Competitive Programming, MERN, DJANGO**
 
-- 📫 How to reach me **manmeet7210@gmail.com**
+- 📫 Contact Me: **manmeet7210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
